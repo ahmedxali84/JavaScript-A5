@@ -1,0 +1,14 @@
+body{
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: x-large;
+    text-align: center;
+    background-image: radial-gradient(blue , green);
+    color: white;
+}
+h1{
+    color: blueviolet;
+}
+div{
+    border: 10px solid black;
+}
